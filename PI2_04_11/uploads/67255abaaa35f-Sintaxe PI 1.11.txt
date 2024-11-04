@@ -1,0 +1,41 @@
+Justificativa de faltas:
+
+Adicionar opcao de Falta Injustificada
+
+Opcao de falta prevista na legislacao trabalhista: Opcao especifica em falecimento de familiar 
+(primeiro ou segundo grau).
+
+Opcao de falta prevista na legislacao trabalhista: Opcao especifica em Acompanhamento em consulta medica 
+(conjugue gravida ou filho menor de 6 anos).
+
+Opcao de falta prevista na legislacao trabalhista: ser mesario em eleicoes (Dispensa dos dias devido à 
+nomeação para compor as mesas receptoras ou juntas eleitorais nas eleições ou requisitado para
+auxiliar seus trabalhos (Lei nº 9.504/97)).
+
+Opcao de falta prevista na legislacao trabalhista: Realização de Prova de Vestibular para ingresso 
+em estabelecimento de ensino superior.
+
+Poder selecionar mais de um dia e/ou horario e/ou turno de justificativa de falta (caso ele(a) tenha 
+faltado mais de um dia, nao precisara enviar varios formularios diferentes).
+EX: Faltou no dia 30/10/24 das 20:40 as 22:30 (todo o segundo bloco, foi embora mais cedo)
+e no dia 31/10/24 das 19:00 as 22:30 (em todas as aulas) 
+ele(a) deve poder justificar todas essas faltas em apenas um formulario.
+
+Aparencia: Remover a cor de fundo dos subtextos, jogar os subtextos todos para a esquerda, e, se possivel 
+tentar deixar o formulario na horizontal, removendo a nececidade de utilizar o scroll do mouse e 
+preenchendo mais a tela (discutir essa ideia com todo o grupo primeiro)
+
+
+Reposicao de aulas:
+
+Poder selecionar mais de um dia e/ou horario e/ou turno de reposicao de aula (caso ele(a) tenha 
+faltado mais de um dia e/ou queira repor as aulas em periodos diferentes, nao precisara enviar 
+varios formularios diferentes).
+
+Aparencia: Remover a cor de fundo dos subtextos, jogar os subtextos todos para a esquerda, e, se possivel 
+tentar deixar o formulario na horizontal, removendo a nececidade de utilizar o scroll do mouse e 
+preenchendo mais a tela (discutir essa ideia com todo o grupo primeiro)
+
+
+
+
